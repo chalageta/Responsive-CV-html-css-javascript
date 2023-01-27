@@ -291,7 +291,9 @@ padding-left: 10px;
     resize: vertical;
   }
   
-
+  textarea:focus-visible{
+    border: 2px solid green;
+  }
 
 .content #popup{
     position: fixed;
