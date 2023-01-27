@@ -290,6 +290,7 @@ padding-left: 10px;
     margin: 8px 0;
     border-radius: 10px;
     border: 1px solid #313534;
+    height: 50px;
   }
   textarea input:focus{
     border: 2px solid green;
