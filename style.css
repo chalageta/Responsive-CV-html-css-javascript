@@ -285,15 +285,13 @@ padding-left: 10px;
   }
    textarea{
     width: 100%;
-    padding: 12px;
+    padding: 12px 20px;
     border: 1px solid #ccc;
     margin-top: 12px;
-    margin-bottom: 16px;
+
     resize: vertical;
   }
-  textarea input:focus{
-    border: 28px solid green;
-   }
+  
 
 
 .content #popup{
