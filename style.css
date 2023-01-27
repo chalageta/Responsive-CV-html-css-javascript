@@ -287,6 +287,7 @@ padding-left: 10px;
     padding: 12px 20px;
     margin: 8px 0;
     height: 100px;
+    border-radius: 50%;
   }
   textarea, input:focus{
     border: 2px solid green;
