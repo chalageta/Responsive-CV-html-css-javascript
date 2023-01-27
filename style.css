@@ -281,13 +281,13 @@ padding-left: 10px;
     padding: 12px 20px;
     margin: 8px 0;
     border-radius: 10px;
+    border: 1px solid #313534;
   }
    textarea{
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
-    height: 100px;
-    border-radius: 50%;
+    height: 70px;
   }
   textarea, input:focus{
     border: 2px solid green;
