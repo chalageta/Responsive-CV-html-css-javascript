@@ -357,7 +357,7 @@ padding-left: 10px;
     right: 5px;
     transform: rotate(45deg);
   }
-     .send{
+    .form .send{
         position: relative;
         padding: 10px 15px;
         display: inline-block;
