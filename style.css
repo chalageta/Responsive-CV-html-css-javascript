@@ -276,16 +276,20 @@ padding-left: 10px;
 
 
 }
-.content .form input[type=text],input[type=password] {
+.content .form input[type=text],input[type=password]  {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
-    box-sizing: border-box;
     border-radius: 10px;
-    border: 1px solid #313534;;
+    border: 1px solid #313534;
 
   }
-   input:focus{
+  .content .form textarea{
+    width: 100%;
+    padding: 12px 20px;
+    height: 200px;
+  }
+  textarea input:focus{
     border: 2px solid green;
    }
 
