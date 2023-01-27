@@ -287,10 +287,10 @@ padding-left: 10px;
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
-    height: 70px;
+    height: 10px;
   }
-  textarea, input:focus{
-    border: 2px solid green;
+  textarea input:focus{
+    border: 28px solid green;
    }
 
 
